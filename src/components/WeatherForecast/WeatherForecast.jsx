@@ -1,3 +1,4 @@
+import './WeatherForecast.css'
 
 const WeatherForecast = ({weatherForecasts}) =>{
 
